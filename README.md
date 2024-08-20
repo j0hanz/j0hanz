@@ -1,7 +1,5 @@
 # 👋 Hello there!
 
-- 👀 I'm passionate about **web development, machine learning, open-source projects, computer hardware**, and **programming**.
-- 🌱 Currently, I'm focused on mastering **full-stack development**, with a particular emphasis on **Django Rest Framework** and **React**.
 - 📫 Feel free to explore my work and reach out via my [portfolio website](https://linus-johansson-cv-d308be9b73e1.herokuapp.com).
 
 <!---

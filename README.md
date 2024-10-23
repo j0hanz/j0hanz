@@ -40,14 +40,34 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=j0hanz-portfolio&theme=transparent&hide_border=true&show_description=false&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/j0hanz-portfolio)
+<h2 align="center">🚀 Top Projects</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=tech-corner-website&theme=transparent&hide_border=true&show_description=false&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/tech-corner-website)
+<p align="center">
+  <a href="https://github.com/j0hanz/blog-beat-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog-beat-web&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff" alt="Blog Beat Web">
+  </a>
+  <a href="https://github.com/j0hanz/blog_beat_api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog_beat_api&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff" alt="Blog Beat API">
+  </a>
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog-beat-web&theme=transparent&hide_border=true&show_description=false&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/blog-beat-web)
+<p align="center">
+  <a href="https://github.com/j0hanz/j0hanz-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=j0hanz-portfolio&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff" alt="Portfolio">
+  </a>
+  <a href="https://github.com/j0hanz/tech-corner-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=tech-corner-website&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff" alt="Tech Corner Website">
+  </a>
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog_beat_api&theme=transparent&hide_border=true&show_description=false&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/blog_beat_api)
+<p align="center">
+  <a href="https://github.com/j0hanz/FIX-my-SPELL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=FIX-my-SPELL&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff" alt="Fix My Spell">
+  </a>
+  <a href="https://github.com/j0hanz/PICK-my-SPELL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=PICK-my-SPELL&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff" alt="Pick My Spell">
+  </a>
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=FIX-my-SPELL&theme=transparent&hide_border=true&show_description=false&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/FIX-my-SPELL)
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=PICK-my-SPELL&theme=transparent&hide_border=true&show_description=false&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/PICK-my-SPELL)

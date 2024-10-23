@@ -1,15 +1,13 @@
-<h1 align="center"> Hi there, I'm Linus👋</h1>
+<h2 align="center"> Hi there, I'm Linus👋</h2>
 
-<h3 align="center">Junior Full-Stack Developer</h3>
-
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/linus-johansson-software-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-2A2A2A?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://linus-johansson-cv-d308be9b73e1.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2A2A2A?style=for-the-badge&logo=portfolio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-2A2A2A?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -25,20 +23,17 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=j0hanz&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&&line_height=20" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0hanz&layout=compact&theme=transparent&count_private=true&hide_border=true&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
+</p>
+
+---
+
 <h2 align="center">🌟 About Me</h2>
 
-<p align="center">
+<p>
   I recently completed a <strong>Full-Stack Developer</strong> program hosted by <em>Code Institute</em>. I enjoy using my coding experience to build creative solutions, and I'm always eager to learn, solve problems, and collaborate. I'm looking for opportunities that will help me grow and develop.
 </p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j0hanz&show_icons=true&theme=transparent&hide_border=true&text_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0hanz&layout=compact&theme=transparent&hide_border=true&text_color=ffffff" alt="Top Languages" />
-</p>
-
-
----

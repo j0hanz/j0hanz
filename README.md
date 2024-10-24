@@ -47,11 +47,11 @@ I'm a <strong>Junior Full Stack Developer</strong> who recently completed a prog
 
 <details align="left">
   <summary><strong>Code Institute Projects</strong></summary>
+  <hr />
   <div align="center">
     <details>
       <summary><strong>Blog Beat</strong></summary>
       <br/>
-      <div style="border: 3px solid #4a4a4a; border-radius: 7.5px; padding-top: 2rem; background: #1a1a1a;">
         <div align="center">
           <img src="./assets/logo_blog_beat.png" alt="Blog Beat" width="400px">
         </div>
@@ -76,7 +76,6 @@ I'm a <strong>Junior Full Stack Developer</strong> who recently completed a prog
             </a>
           </div>
         </div>
-      </div>
     </details>
     <details>
       <summary><strong>Tech Corner</strong></summary>
@@ -133,6 +132,7 @@ I'm a <strong>Junior Full Stack Developer</strong> who recently completed a prog
       </div>
     </details>
   </div>
+  <hr />
 </details>
 
 <details align="left">

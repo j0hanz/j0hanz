@@ -11,7 +11,7 @@
   </a>
 </div>
 
----
+<hr style="border: 1px solid #00487a; background-color: #00487a; margin-bottom: 0.8rem; margin-top: 0.8rem;" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
 </div>
 
----
+<hr style="border: 1px solid #00487a; background-color: #00487a; margin-bottom: 0.8rem; margin-top: 0.8rem;" />
 
 <h2 align="center"> Hi there!👋</h2>
 

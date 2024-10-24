@@ -45,33 +45,82 @@
 
 ---
 
-<h3 align="center">🚀 Top Projects</h3>
+<h2 align="center">🚀 Top Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/j0hanz/blog-beat-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog-beat-web&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff" alt="Blog Beat Web">
-  </a>
-  <a href="https://github.com/j0hanz/blog_beat_api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog_beat_api&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff" alt="Blog Beat API">
-  </a>
-</p>
+<details align="center">
+  <summary><strong>Code Institute Projects</strong></summary>
+  <details>
+    <summary><strong>Blog Beat</strong></summary>
+    <div align="center">
+      <img src="./assets/logo_blog_beat.png" alt="Blog Beat" width="400px">
+    </div>
+    <h5>An interactive platform for reading, writing, and engaging with blog posts, designed for bloggers and readers.</h5>
+    <div align="center">
+      <img src="./assets/blog_beat_ami.png" alt="Blog Beat" width="100%">
+    </div>
+    <div align="center">
+      <a href="https://github.com/j0hanz/blog-beat-web">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog-beat-web&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff" alt="Blog Beat Web">
+      </a>
+      <a href="https://github.com/j0hanz/blog_beat_api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog_beat_api&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff" alt="Blog Beat API">
+      </a>
+    </div>
+  </details>
+  <details>
+    <summary><strong>Tech Corner</strong></summary>
+    <div align="center">
+      <img src="./assets/logo_tech_corner.png" alt="Tech Corner" width="400px">
+    </div>
+    <h5>A community blog and news site for tech enthusiasts to share and engage with the latest in technology.</h5>
+    <div align="center">
+      <img src="./assets/tech_corner_ami.png" alt="Tech Corner" width="100%">
+    </div>
+    <div align="center">
+      <a href="https://github.com/j0hanz/tech-corner-website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=tech-corner-website&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff" alt="Tech Corner Website">
+      </a>
+    </div>
+  </details>
+  <details>
+    <summary><strong>Games</strong></summary>
+    <div align="center">
+      <img src="./assets/logo_pick_my_spell.png" alt="Pick my Spell" width="400px">
+    </div>
+    <h5>A spelling quiz game where users pick the correct word within 10 seconds.</h5>
+    <div align="center">
+      <img src="./assets/pick_my_spell_ami.png" alt="Pick my Spell" width="100%">
+    </div>
+    <div align="center">
+      <a href="https://github.com/j0hanz/PICK-my-SPELL">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=PICK-my-SPELL&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff" alt="Pick My Spell">
+      </a>
+    </div>
+    <hr />
+    <div align="center">
+      <img src="./assets/logo_fix_my_spell.png" alt="Fix my Spell" width="100%">
+    </div>
+    <h5>A console-based game to correct misspelled words, designed to boost spelling in a playful way.</h5>
+    <div align="center">
+      <a href="https://github.com/j0hanz/FIX-my-SPELL">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=FIX-my-SPELL&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff" alt="Fix My Spell">
+      </a>
+    </div>
+  </details>
+</details>
 
-<p align="center">
-  <a href="https://github.com/j0hanz/j0hanz-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=j0hanz-portfolio&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff" alt="Portfolio">
-  </a>
-  <a href="https://github.com/j0hanz/tech-corner-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=tech-corner-website&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff" alt="Tech Corner Website">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/j0hanz/FIX-my-SPELL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=FIX-my-SPELL&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff" alt="Fix My Spell">
-  </a>
-  <a href="https://github.com/j0hanz/PICK-my-SPELL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=PICK-my-SPELL&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff" alt="Pick My Spell">
-  </a>
-</p>
-
----
+<details align="center">
+  <summary><strong>Portfolio</strong></summary>
+  <div align="center">
+    <img src="./assets/logo_portfolio.png" alt="LJ" width="200px">
+  </div>
+  <h5>My personal website is based on my CV and showcases my skills, experience, and projects.</h5>
+  <div align="center">
+    <img src="./assets/portfolio_ami.png" alt="Portfolio" width="100%">
+  </div>
+  <div align="center">
+    <a href="https://github.com/j0hanz/j0hanz-portfolio">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=j0hanz-portfolio&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff" alt="Portfolio">
+    </a>
+  </div>
+</details>

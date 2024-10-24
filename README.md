@@ -1,11 +1,13 @@
-<h1 align="center"> Hi there, I'm Linus 👋</h1>
+<div align="center">
+  <img src="assets/nameLogo.png" alt="Linus Johansson" width="100%">
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/linus-johansson-software-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2A2A2A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35px" />
+    <img src="https://img.shields.io/badge/LinkedIn-2A2A2A?style=for-the-badge&logo=linkedin&logoColor=0077b5" alt="LinkedIn" height="35px" />
   </a>
   <a href="https://linus-johansson-cv-d308be9b73e1.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2A2A2A?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" height="35px" />
+    <img src="https://img.shields.io/badge/Portfolio-2A2A2A?style=for-the-badge&logo=todoist&logoColor=f40f02" alt="Portfolio" height="35px" />
   </a>
 </div>
 
@@ -25,8 +27,10 @@
 
 ---
 
-<div align="center">
-    I'm a <strong>Full-Stack Developer</strong> who recently completed a program at <em>Code Institute</em>. I'm passionate about building creative and efficient solutions using my coding experience. I love learning, problem-solving, and collaborating with others. Currently, I'm seeking new opportunities to grow and contribute to exciting projects.
+<h2 align="center"> Hi there!👋</h2>
+
+<div>
+    I'm a <strong>Junior Full Stack Developer</strong> who recently completed a program at <em>Code Institute</em>. I'm passionate about building creative and efficient solutions using my coding experience. I love learning, problem-solving, and collaborating with others. Currently, I'm seeking new opportunities to grow and contribute to exciting projects.
 </div>
 
 ---

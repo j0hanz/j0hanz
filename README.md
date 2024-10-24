@@ -2,11 +2,8 @@
 <img src="assets/nameLogo.png" alt="Linus Johansson" width="100%">
 
 <a href="https://www.linkedin.com/in/linus-johansson-software-dev/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-2A2A2A?style=for-the-badge&logo=linkedin&logoColor=0077b5" alt="LinkedIn" height="30px" />
-</a>
-<a href="https://linus-johansson-cv-d308be9b73e1.herokuapp.com/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-2A2A2A?style=for-the-badge&logo=todoist&logoColor=f40f02" alt="Portfolio" height="30px" />
-</a>
+<img src="https://img.shields.io/badge/LinkedIn-2A2A2A?style=for-the-badge&logo=linkedin&logoColor=0077b5" alt="LinkedIn" height="30px" /></a><a href="https://linus-johansson-cv-d308be9b73e1.herokuapp.com/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-2A2A2A?style=for-the-badge&logo=todoist&logoColor=f40f02" alt="Portfolio" height="30px" /></a>
 
 ---
 
@@ -20,8 +17,7 @@ I'm a Junior Full Stack Developer who recently completed a program at *Code Inst
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=j0hanz&show_icons=true&theme=transparent&count_private=true&rank_icon=github&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&line_height=25" alt="GitHub Stats" height="200px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0hanz&layout=donut&theme=transparent&count_private=true&hide_border=true&title_color=ffffff&text_color=ffffff" alt="Top Languages" height="200px" />
+<img src="https://github-readme-stats.vercel.app/api?username=j0hanz&show_icons=true&theme=transparent&count_private=true&rank_icon=github&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&line_height=25" alt="GitHub Stats" height="200px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0hanz&layout=donut&theme=transparent&count_private=true&hide_border=true&title_color=ffffff&text_color=ffffff" alt="Top Languages" height="200px" />
 
 ---
 

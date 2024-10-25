@@ -9,7 +9,7 @@
 
 ---
 
-## Hi there!👋
+# Hi there!👋
 
 I'm a Junior Full Stack Developer who recently completed a program at *Code Institute*. I'm passionate about building creative and efficient solutions using my coding experience. I love learning, problem-solving, and collaborating with others. Currently, I'm seeking new opportunities to grow and contribute to exciting projects.
 
@@ -19,36 +19,53 @@ I'm a Junior Full Stack Developer who recently completed a program at *Code Inst
 
 ---
 
-## 🚀 Top Projects
+## 🚀 Projects
 
 <details>
-<summary><strong>Code Institute Projects</strong></summary>
+
+<summary>Portfolio</summary>
+
 <br />
+
+<img src="./assets/logo_portfolio.png" alt="LJ" width="150px">
+
+<br />
+
+![Repo Size](https://img.shields.io/github/repo-size/j0hanz/j0hanz-portfolio?style=for-the-badge)![Site Status](https://img.shields.io/uptimerobot/status/m797912858-9dcdcff1e2f2fd603bd28fc0?label=Status&style=for-the-badge)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/j0hanz-portfolio?style=for-the-badge)
+
+My personal website is based on my CV and showcases my skills, experience, and projects.
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=j0hanz-portfolio&theme=transparent&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/j0hanz-portfolio)
+
+</details>
+
 <details>
+
 <summary>Blog Beat</summary>
 
 <br />
 
 <img src="./assets/logo_blog_beat.png" alt="Blog Beat" width="500px">
 
-![Repo Size](https://img.shields.io/github/repo-size/j0hanz/blog-beat-web)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/blog-beat-web)![Commit Activity](https://img.shields.io/github/commit-activity/y/j0hanz/blog-beat-web)![Issues](https://img.shields.io/github/issues/j0hanz/blog-beat-web)
+![Repo Size](https://img.shields.io/github/repo-size/j0hanz/blog-beat-web?style=for-the-badge)![Site Status](https://img.shields.io/uptimerobot/status/m797916151-c9ddfc507c6000db5ba71240?label=site%20status&style=for-the-badge)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/blog-beat-web?style=for-the-badge)
 
 An interactive platform for reading, writing, and engaging with blog posts, designed for bloggers and readers.
 
-[![Blog Beat Web](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog-beat-web&theme=transparent&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/blog-beat-web)[![Blog Beat API](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog_beat_api&theme=transparent&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/blog_beat_api)
+[![Blog Beat Web](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog-beat-web&theme=transparent&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/blog-beat-web)
 
 </details>
 
 <details>
+
 <summary>Tech Corner</summary>
 
 <br />
 
-<img src="./assets/logo_tech_corner.png" alt="Tech Corner" width="350px">
+<img src="./assets/logo_tech_corner.png" alt="Tech Corner" width="500px">
 
 <br />
 
-![Repo Size](https://img.shields.io/github/repo-size/j0hanz/tech-corner-website)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/tech-corner-website)![Commit Activity](https://img.shields.io/github/commit-activity/y/j0hanz/tech-corner-website)
+![Repo Size](https://img.shields.io/github/repo-size/j0hanz/tech-corner-website?style=for-the-badge)![Site Status](https://img.shields.io/uptimerobot/status/m797916191-8901e95eb535fccf65630c57?label=site%20status&style=for-the-badge)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/tech-corner-website?style=for-the-badge)
 
 A community blog and news site for tech enthusiasts to share and engage with the latest in technology.
 
@@ -57,15 +74,16 @@ A community blog and news site for tech enthusiasts to share and engage with the
 </details>
 
 <details>
+
 <summary>Games</summary>
 
 <br />
 
-<img src="./assets/logo_pick_my_spell.png" alt="Pick my Spell" width="400px">
+<img src="./assets/logo_pick_my_spell.png" alt="Pick my Spell" width="500px">
 
 <br />
 
-![Repo Size](https://img.shields.io/github/repo-size/j0hanz/PICK-my-SPELL)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/PICK-my-SPELL)![Commit Activity](https://img.shields.io/github/commit-activity/y/j0hanz/PICK-my-SPELL)
+![Repo Size](https://img.shields.io/github/repo-size/j0hanz/PICK-my-SPELL?style=for-the-badge)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/PICK-my-SPELL?style=for-the-badge)
 
 A spelling quiz game where users pick the correct word within 10 seconds.
 
@@ -73,34 +91,16 @@ A spelling quiz game where users pick the correct word within 10 seconds.
 
 <br />
 
-<img src="./assets/logo_fix_my_spell.png" alt="Fix my Spell" width="450px">
+<img src="./assets/logo_fix_my_spell.png" alt="Fix my Spell" width="500px">
 
 <br />
 
-![Repo Size](https://img.shields.io/github/repo-size/j0hanz/FIX-my-SPELL)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/FIX-my-SPELL)![Commit Activity](https://img.shields.io/github/commit-activity/y/j0hanz/FIX-my-SPELL)
+![Repo Size](https://img.shields.io/github/repo-size/j0hanz/FIX-my-SPELL?style=for-the-badge)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/FIX-my-SPELL?style=for-the-badge)
 
 A console-based game to correct misspelled words, designed to boost spelling in a playful way.
 
 [![Fix My Spell](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=FIX-my-SPELL&theme=transparent&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff)](<https://github.com/j0hanz/FIX-my-SPELL>)
 
 </details>
-</details>
 
-<br />
-
-<details>
-<summary><strong>Portfolio</strong></summary>
-
-<br />
-
-<img src="./assets/logo_portfolio.png" alt="LJ" width="150px">
-
-<br />
-
-![Repo Size](https://img.shields.io/github/repo-size/j0hanz/j0hanz-portfolio)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/j0hanz-portfolio)![Commit Activity](https://img.shields.io/github/commit-activity/y/j0hanz/j0hanz-portfolio)
-
-My personal website is based on my CV and showcases my skills, experience, and projects.
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=j0hanz-portfolio&theme=transparent&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/j0hanz-portfolio)
-
-</details>
+---

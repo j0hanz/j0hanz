@@ -31,7 +31,7 @@ I'm a Junior Full Stack Developer who recently completed a program at *Code Inst
 
 <br />
 
-![Repo Size](https://img.shields.io/github/repo-size/j0hanz/j0hanz-portfolio?style=for-the-badge)![Site Status](https://img.shields.io/uptimerobot/status/m797912858-9dcdcff1e2f2fd603bd28fc0?label=Status&style=for-the-badge)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/j0hanz-portfolio?style=for-the-badge)
+![Site Status](https://img.shields.io/uptimerobot/status/m797912858-9dcdcff1e2f2fd603bd28fc0?label=Status&style=for-the-badge)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/j0hanz-portfolio?style=for-the-badge)
 
 My personal website is based on my CV and showcases my skills, experience, and projects.
 
@@ -47,7 +47,7 @@ My personal website is based on my CV and showcases my skills, experience, and p
 
 <img src="./assets/logo_blog_beat.png" alt="Blog Beat" width="500px">
 
-![Repo Size](https://img.shields.io/github/repo-size/j0hanz/blog-beat-web?style=for-the-badge)![Site Status](https://img.shields.io/uptimerobot/status/m797916151-c9ddfc507c6000db5ba71240?label=site%20status&style=for-the-badge)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/blog-beat-web?style=for-the-badge)
+![Site Status](https://img.shields.io/uptimerobot/status/m797916151-c9ddfc507c6000db5ba71240?label=site%20status&style=for-the-badge)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/blog-beat-web?style=for-the-badge)![Issues](https://img.shields.io/github/issues/j0hanz/blog-beat-web?style=for-the-badge)
 
 An interactive platform for reading, writing, and engaging with blog posts, designed for bloggers and readers.
 
@@ -65,7 +65,7 @@ An interactive platform for reading, writing, and engaging with blog posts, desi
 
 <br />
 
-![Repo Size](https://img.shields.io/github/repo-size/j0hanz/tech-corner-website?style=for-the-badge)![Site Status](https://img.shields.io/uptimerobot/status/m797916191-8901e95eb535fccf65630c57?label=site%20status&style=for-the-badge)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/tech-corner-website?style=for-the-badge)
+![Site Status](https://img.shields.io/uptimerobot/status/m797916191-8901e95eb535fccf65630c57?label=site%20status&style=for-the-badge)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/tech-corner-website?style=for-the-badge)![Issues](https://img.shields.io/github/issues/j0hanz/tech-corner-website?style=for-the-badge)
 
 A community blog and news site for tech enthusiasts to share and engage with the latest in technology.
 
@@ -83,7 +83,7 @@ A community blog and news site for tech enthusiasts to share and engage with the
 
 <br />
 
-![Repo Size](https://img.shields.io/github/repo-size/j0hanz/PICK-my-SPELL?style=for-the-badge)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/PICK-my-SPELL?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/j0hanz/PICK-my-SPELL?style=for-the-badge)
 
 A spelling quiz game where users pick the correct word within 10 seconds.
 
@@ -95,7 +95,7 @@ A spelling quiz game where users pick the correct word within 10 seconds.
 
 <br />
 
-![Repo Size](https://img.shields.io/github/repo-size/j0hanz/FIX-my-SPELL?style=for-the-badge)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/FIX-my-SPELL?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/j0hanz/FIX-my-SPELL?style=for-the-badge)
 
 A console-based game to correct misspelled words, designed to boost spelling in a playful way.
 

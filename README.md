@@ -43,7 +43,7 @@ I'm a Junior Full Stack Developer who recently completed a program at *Code Inst
 
 ![Last Commit](https://img.shields.io/github/last-commit/j0hanz/blog-beat-web?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/blog-beat-web?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)![Site Status](https://img.shields.io/uptimerobot/status/m797916151-c9ddfc507c6000db5ba71240?style=flat-square&logo=heroku&logoColor=white&labelColor=1a1a1a)![Issues](https://img.shields.io/github/issues/j0hanz/blog-beat-web?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)
 
-An interactive platform for reading, writing, and engaging with blog posts, designed for bloggers and readers.
+*An interactive platform for reading, writing, and engaging with blog posts, designed for bloggers and readers.*
 
 <br />
 
@@ -57,7 +57,7 @@ An interactive platform for reading, writing, and engaging with blog posts, desi
 
 ![Last Commit](https://img.shields.io/github/last-commit/j0hanz/tech-corner-website?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/tech-corner-website?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)![Site Status](https://img.shields.io/uptimerobot/status/m797916191-8901e95eb535fccf65630c57?style=flat-square&logo=heroku&logoColor=white&labelColor=1a1a1a)![Issues](https://img.shields.io/github/issues/j0hanz/tech-corner-website?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)
 
-A community blog and news site for tech enthusiasts to share and engage with the latest in technology.
+*A community blog and news site for tech enthusiasts to share and engage with the latest in technology.*
 
 <br />
 
@@ -71,7 +71,7 @@ A community blog and news site for tech enthusiasts to share and engage with the
 
 ![Last Commit](https://img.shields.io/github/last-commit/j0hanz/PICK-my-SPELL?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/PICK-my-SPELL?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)
 
-A spelling quiz game where users pick the correct word within 10 seconds.
+*A spelling quiz game where users pick the correct word within 10 seconds.*
 
 <br />
 
@@ -79,7 +79,7 @@ A spelling quiz game where users pick the correct word within 10 seconds.
 
 ![Last Commit](https://img.shields.io/github/last-commit/j0hanz/FIX-my-SPELL?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/FIX-my-SPELL?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)
 
-A console-based game to correct misspelled words, designed to boost spelling in a playful way.
+*A console-based game to correct misspelled words, designed to boost spelling in a playful way.*
 
 </details>
 

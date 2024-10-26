@@ -25,7 +25,7 @@ I'm a Junior Full Stack Developer who recently completed a program at *Code Inst
 
 <summary>Portfolio</summary>
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=j0hanz-portfolio&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/j0hanz-portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=j0hanz-portfolio&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/j0hanz-portfolio)
 
 ![Last Commit](https://img.shields.io/github/last-commit/j0hanz/j0hanz-portfolio?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/j0hanz-portfolio?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)![Site Status](https://img.shields.io/uptimerobot/status/m797912858-9dcdcff1e2f2fd603bd28fc0?style=flat-square&logo=heroku&logoColor=white&labelColor=1a1a1a)
 
@@ -39,13 +39,13 @@ I'm a Junior Full Stack Developer who recently completed a program at *Code Inst
 
 <summary>Blog Beat</summary>
 
-[![Blog Beat Web](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog-beat-web&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/blog-beat-web)
+[![Blog Beat Web](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog-beat-web&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/blog-beat-web)
 
 ![Last Commit](https://img.shields.io/github/last-commit/j0hanz/blog-beat-web?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/blog-beat-web?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)![Site Status](https://img.shields.io/uptimerobot/status/m797916151-c9ddfc507c6000db5ba71240?style=flat-square&logo=heroku&logoColor=white&labelColor=1a1a1a)![Issues](https://img.shields.io/github/issues/j0hanz/blog-beat-web?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)
 
 *Frontend built with React, Bootstrap, and Axios for API services.*
 
-[![Blog Beat Api](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog_beat_api&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/blog_beat_api)
+[![Blog Beat Api](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog_beat_api&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/blog_beat_api)
 
 ![Last Commit](https://img.shields.io/github/last-commit/j0hanz/blog_beat_api?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/blog_beat_api?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)![Issues](https://img.shields.io/github/issues/j0hanz/blog_beat_api?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)
 
@@ -59,7 +59,7 @@ I'm a Junior Full Stack Developer who recently completed a program at *Code Inst
 
 <summary>Tech Corner</summary>
 
-[![Tech Corner Website](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=tech-corner-website&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/tech-corner-website)
+[![Tech Corner Website](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=tech-corner-website&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/tech-corner-website)
 
 ![Last Commit](https://img.shields.io/github/last-commit/j0hanz/tech-corner-website?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/tech-corner-website?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)![Site Status](https://img.shields.io/uptimerobot/status/m797916191-8901e95eb535fccf65630c57?style=flat-square&logo=heroku&logoColor=white&labelColor=1a1a1a)![Issues](https://img.shields.io/github/issues/j0hanz/tech-corner-website?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)
 
@@ -73,7 +73,7 @@ I'm a Junior Full Stack Developer who recently completed a program at *Code Inst
 
 <summary>Games</summary>
 
-[![Pick My Spell](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=PICK-my-SPELL&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/PICK-my-SPELL)
+[![Pick My Spell](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=PICK-my-SPELL&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/PICK-my-SPELL)
 
 ![Last Commit](https://img.shields.io/github/last-commit/j0hanz/PICK-my-SPELL?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/PICK-my-SPELL?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)
 
@@ -81,7 +81,7 @@ I'm a Junior Full Stack Developer who recently completed a program at *Code Inst
 
 <br />
 
-[![Fix My Spell](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=FIX-my-SPELL&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/FIX-my-SPELL)
+[![Fix My Spell](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=FIX-my-SPELL&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/FIX-my-SPELL)
 
 ![Last Commit](https://img.shields.io/github/last-commit/j0hanz/FIX-my-SPELL?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/FIX-my-SPELL?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)
 

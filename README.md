@@ -25,17 +25,12 @@ I'm a Junior Full Stack Developer who recently completed a program at *Code Inst
 
 <summary>Portfolio</summary>
 
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=j0hanz-portfolio&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/j0hanz-portfolio)
+![Last Commit](https://img.shields.io/github/last-commit/j0hanz/j0hanz-portfolio?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/j0hanz-portfolio?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)![Site Status](https://img.shields.io/uptimerobot/status/m797912858-9dcdcff1e2f2fd603bd28fc0?style=flat-square&logo=heroku&logoColor=white&labelColor=1a1a1a)
+
+*My personal website is based on my CV and showcases my skills, experience, and projects.*
+
 <br />
-
-<img src="./assets/logo_portfolio.png" alt="LJ" width="150px">
-
-<br />
-
-![Site Status](https://img.shields.io/uptimerobot/status/m797912858-9dcdcff1e2f2fd603bd28fc0?label=Status&style=for-the-badge)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/j0hanz-portfolio?style=for-the-badge)
-
-My personal website is based on my CV and showcases my skills, experience, and projects.
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=j0hanz-portfolio&theme=transparent&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/j0hanz-portfolio)
 
 </details>
 
@@ -43,15 +38,12 @@ My personal website is based on my CV and showcases my skills, experience, and p
 
 <summary>Blog Beat</summary>
 
-<br />
-
-<img src="./assets/logo_blog_beat.png" alt="Blog Beat" width="500px">
-
-![Site Status](https://img.shields.io/uptimerobot/status/m797916151-c9ddfc507c6000db5ba71240?label=site%20status&style=for-the-badge)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/blog-beat-web?style=for-the-badge)![Issues](https://img.shields.io/github/issues/j0hanz/blog-beat-web?style=for-the-badge)
+[![Blog Beat Web](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog-beat-web&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/blog-beat-web)
+![Last Commit](https://img.shields.io/github/last-commit/j0hanz/blog-beat-web?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/blog-beat-web?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)![Site Status](https://img.shields.io/uptimerobot/status/m797916151-c9ddfc507c6000db5ba71240?style=flat-square&logo=heroku&logoColor=white&labelColor=1a1a1a)![Issues](https://img.shields.io/github/issues/j0hanz/blog-beat-web?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)
 
 An interactive platform for reading, writing, and engaging with blog posts, designed for bloggers and readers.
 
-[![Blog Beat Web](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog-beat-web&theme=transparent&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/blog-beat-web)
+<br />
 
 </details>
 
@@ -59,17 +51,12 @@ An interactive platform for reading, writing, and engaging with blog posts, desi
 
 <summary>Tech Corner</summary>
 
-<br />
-
-<img src="./assets/logo_tech_corner.png" alt="Tech Corner" width="500px">
-
-<br />
-
-![Site Status](https://img.shields.io/uptimerobot/status/m797916191-8901e95eb535fccf65630c57?label=site%20status&style=for-the-badge)![Last Commit](https://img.shields.io/github/last-commit/j0hanz/tech-corner-website?style=for-the-badge)![Issues](https://img.shields.io/github/issues/j0hanz/tech-corner-website?style=for-the-badge)
+[![Tech Corner Website](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=tech-corner-website&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/tech-corner-website)
+![Last Commit](https://img.shields.io/github/last-commit/j0hanz/tech-corner-website?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/tech-corner-website?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)![Site Status](https://img.shields.io/uptimerobot/status/m797916191-8901e95eb535fccf65630c57?style=flat-square&logo=heroku&logoColor=white&labelColor=1a1a1a)![Issues](https://img.shields.io/github/issues/j0hanz/tech-corner-website?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)
 
 A community blog and news site for tech enthusiasts to share and engage with the latest in technology.
 
-[![Tech Corner Website](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=tech-corner-website&theme=transparent&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/tech-corner-website)
+<br />
 
 </details>
 
@@ -77,29 +64,17 @@ A community blog and news site for tech enthusiasts to share and engage with the
 
 <summary>Games</summary>
 
-<br />
-
-<img src="./assets/logo_pick_my_spell.png" alt="Pick my Spell" width="500px">
-
-<br />
-
-![Last Commit](https://img.shields.io/github/last-commit/j0hanz/PICK-my-SPELL?style=for-the-badge)
+[![Pick My Spell](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=PICK-my-SPELL&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/PICK-my-SPELL)
+![Last Commit](https://img.shields.io/github/last-commit/j0hanz/PICK-my-SPELL?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/PICK-my-SPELL?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)
 
 A spelling quiz game where users pick the correct word within 10 seconds.
 
-[![Pick My Spell](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=PICK-my-SPELL&theme=transparent&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/PICK-my-SPELL)
-
 <br />
 
-<img src="./assets/logo_fix_my_spell.png" alt="Fix my Spell" width="500px">
-
-<br />
-
-![Last Commit](https://img.shields.io/github/last-commit/j0hanz/FIX-my-SPELL?style=for-the-badge)
+[![Fix My Spell](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=FIX-my-SPELL&bg_color=DEG,1a1a1a,252525,1a1a1a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=ffffff&text_color=ffffff)](https://github.com/j0hanz/FIX-my-SPELL)
+![Last Commit](https://img.shields.io/github/last-commit/j0hanz/FIX-my-SPELL?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/FIX-my-SPELL?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)
 
 A console-based game to correct misspelled words, designed to boost spelling in a playful way.
-
-[![Fix My Spell](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=FIX-my-SPELL&theme=transparent&description_lines_count=2&show_description=false&hide_border=true&border_radius=6.5&title_color=ffffff&text_color=ffffff)](<https://github.com/j0hanz/FIX-my-SPELL>)
 
 </details>
 

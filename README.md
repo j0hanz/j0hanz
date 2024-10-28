@@ -1,4 +1,3 @@
-
 ![Linus Johansson](assets/nameLogo.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2A2A2A?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/linus-johansson-software-dev/)[![Portfolio](https://img.shields.io/badge/Portfolio-2A2A2A?style=for-the-badge&logo=todoist&logoColor=f40f02)](https://linus-johansson-cv-d308be9b73e1.herokuapp.com/)
@@ -9,7 +8,7 @@
 
 ---
 
-# Hi there!👋
+# Hi there! 👋
 
 I'm a Junior Full Stack Developer who recently completed a program at *Code Institute*. I'm passionate about building creative and efficient solutions using my coding experience. I love learning, problem-solving, and collaborating with others. Currently, I'm seeking new opportunities to grow and contribute to exciting projects.
 
@@ -29,7 +28,7 @@ I'm a Junior Full Stack Developer who recently completed a program at *Code Inst
 
 ![Last Commit](https://img.shields.io/github/last-commit/j0hanz/j0hanz-portfolio?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/j0hanz-portfolio?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)![Site Status](https://img.shields.io/uptimerobot/status/m797912858-9dcdcff1e2f2fd603bd28fc0?style=flat-square&logo=heroku&logoColor=white&labelColor=1a1a1a)
 
-*A personal portfolio built with React.js and Bootstrap, featuring custom gradient styling.*
+*My portfolio site built with React and Bootstrap, featuring custom gradient styling.*
 
 <br />
 

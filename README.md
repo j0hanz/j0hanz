@@ -4,13 +4,20 @@
 
 ---
 
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![Agile](https://img.shields.io/badge/Agile-0077b5?style=for-the-badge&logo=agile&logoColor=white)![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+# Hi there! 👋
+
+I'm a Junior Full Stack Developer who recently completed a Full-Stack Developer program at [Code Institute](https://codeinstitute.net/se/).
+I enjoy using my coding experience to build creative solutions, and I'm always eager to learn, solve problems, and collaborate. I'm looking for opportunities that will help me grow and develop.
 
 ---
 
-# Hi there! 👋
+## 🛠️ Skills
 
-I'm a Junior Full Stack Developer who recently completed a program at *Code Institute*. I'm passionate about building creative and efficient solutions using my coding experience. I love learning, problem-solving, and collaborating with others. Currently, I'm seeking new opportunities to grow and contribute to exciting projects.
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![Agile](https://img.shields.io/badge/Agile-0077b5?style=for-the-badge&logo=agile&logoColor=white)![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+## 🌱 Currently learning
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -46,7 +53,7 @@ I'm a Junior Full Stack Developer who recently completed a program at *Code Inst
 
 [![Blog Beat Api](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog_beat_api&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/blog_beat_api)
 
-![Last Commit](https://img.shields.io/github/last-commit/j0hanz/blog_beat_api?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/blog_beat_api?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)![Issues](https://img.shields.io/github/issues/j0hanz/blog_beat_api?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)
+![Last Commit](https://img.shields.io/github/last-commit/j0hanz/blog_beat_api?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/blog_beat_api?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)
 
 *Backend built using Django REST Framework.*
 

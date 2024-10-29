@@ -29,11 +29,35 @@ I enjoy using my coding experience to build creative solutions, and I'm always e
 
 <details>
 
-<summary>Portfolio</summary>
+<summary>Hackathon Sep 2024</summary>
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=Team4-Sep2024-Hackathon&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/Team4-Sep2024-Hackathon)
+
+[![Last Commit](https://img.shields.io/github/last-commit/Damitwhy/Team4-Sep2024-Hackathon?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a&label=updated)](https://github.com/Damitwhy/Team4-Sep2024-Hackathon/commits) [![Commits](https://img.shields.io/github/commit-activity/t/Damitwhy/Team4-Sep2024-Hackathon?style=flat-square&logo=git&logoColor=f05032&labelColor=1a1a1a&color=2a2a2a)](https://github.com/Damitwhy/Team4-Sep2024-Hackathon/commits) [![Issues](https://img.shields.io/github/issues/Damitwhy/Team4-Sep2024-Hackathon?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a)](https://github.com/Damitwhy/Team4-Sep2024-Hackathon/issues)
+
+*This project was part of the September-24 Hackathon, hosted by [Code Institute](https://hackathon.codeinstitute.net/hackathon/50/).*
+
+*For detailed progress and task management, visit our [Project Board](https://github.com/users/Damitwhy/projects/6).*
+
+| Contributor                              | Role                |
+|------------------------------------------|---------------------|
+| [j0hanz](https://github.com/j0hanz)       | Full-stack Developer        |
+| [Damitwhy](https://github.com/Damitwhy)   | SCRUM master   |
+| [DavidFB94](https://github.com/DavidFB94) | Full-stack Developer  |
+| [NontyD](https://github.com/NontyD)       | Front-end Developer         |
+| [jhoanTrujillo](https://github.com/jhoanTrujillo) | Full-stack Developer     |
+
+<br />
+
+</details>
+
+<details>
+
+<summary>My Portfolio Website</summary>
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=j0hanz-portfolio&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/j0hanz-portfolio)
 
-![Last Commit](https://img.shields.io/github/last-commit/j0hanz/j0hanz-portfolio?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/j0hanz-portfolio?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)![Site Status](https://img.shields.io/uptimerobot/status/m797912858-9dcdcff1e2f2fd603bd28fc0?style=flat-square&logo=heroku&logoColor=white&labelColor=1a1a1a)
+[![Last Commit](https://img.shields.io/github/last-commit/j0hanz/j0hanz-portfolio?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a&label=updated)](https://github.com/j0hanz/j0hanz-portfolio/commits) [![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/j0hanz-portfolio?style=flat-square&logo=git&logoColor=f05032&labelColor=1a1a1a&color=2a2a2a)](https://github.com/j0hanz/j0hanz-portfolio/commits) [![Site Status](https://img.shields.io/uptimerobot/status/m797912858-9dcdcff1e2f2fd603bd28fc0?style=flat-square&logo=heroku&logoColor=79589f&labelColor=1a1a1a)](https://linus-johansson-cv-d308be9b73e1.herokuapp.com/)
 
 *My portfolio site built with React and Bootstrap, featuring custom gradient styling.*
 
@@ -47,13 +71,13 @@ I enjoy using my coding experience to build creative solutions, and I'm always e
 
 [![Blog Beat Web](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog-beat-web&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/blog-beat-web)
 
-![Last Commit](https://img.shields.io/github/last-commit/j0hanz/blog-beat-web?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/blog-beat-web?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)![Site Status](https://img.shields.io/uptimerobot/status/m797916151-c9ddfc507c6000db5ba71240?style=flat-square&logo=heroku&logoColor=white&labelColor=1a1a1a)![Issues](https://img.shields.io/github/issues/j0hanz/blog-beat-web?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)
+[![Last Commit](https://img.shields.io/github/last-commit/j0hanz/blog-beat-web?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a&label=updated)](https://github.com/j0hanz/blog-beat-web/commits) [![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/blog-beat-web?style=flat-square&logo=git&logoColor=f05032&labelColor=1a1a1a&color=2a2a2a)](https://github.com/j0hanz/blog-beat-web/commits) [![Site Status](https://img.shields.io/uptimerobot/status/m797916151-c9ddfc507c6000db5ba71240?style=flat-square&logo=heroku&logoColor=79589f&labelColor=1a1a1a)](https://blog-beat-17c62545ca2a.herokuapp.com/) [![Issues](https://img.shields.io/github/issues/j0hanz/blog-beat-web?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a)](https://github.com/j0hanz/blog-beat-web/issues)
 
 *Frontend built with React, Bootstrap, and Axios for API services.*
 
 [![Blog Beat Api](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog_beat_api&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/blog_beat_api)
 
-![Last Commit](https://img.shields.io/github/last-commit/j0hanz/blog_beat_api?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/blog_beat_api?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)
+[![Last Commit](https://img.shields.io/github/last-commit/j0hanz/blog_beat_api?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a&label=updated)](https://github.com/j0hanz/blog_beat_api/commits) [![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/blog_beat_api?style=flat-square&logo=git&logoColor=f05032&labelColor=1a1a1a&color=2a2a2a)](https://github.com/j0hanz/blog_beat_api/commits)
 
 *Backend built using Django REST Framework.*
 
@@ -67,7 +91,7 @@ I enjoy using my coding experience to build creative solutions, and I'm always e
 
 [![Tech Corner Website](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=tech-corner-website&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/tech-corner-website)
 
-![Last Commit](https://img.shields.io/github/last-commit/j0hanz/tech-corner-website?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/tech-corner-website?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)![Site Status](https://img.shields.io/uptimerobot/status/m797916191-8901e95eb535fccf65630c57?style=flat-square&logo=heroku&logoColor=white&labelColor=1a1a1a)![Issues](https://img.shields.io/github/issues/j0hanz/tech-corner-website?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a)
+[![Last Commit](https://img.shields.io/github/last-commit/j0hanz/tech-corner-website?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a&label=updated)](https://github.com/j0hanz/tech-corner-website/commits) [![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/tech-corner-website?style=flat-square&logo=git&logoColor=f05032&labelColor=1a1a1a&color=2a2a2a)](https://github.com/j0hanz/tech-corner-website/commits) [![Site Status](https://img.shields.io/uptimerobot/status/m797916191-8901e95eb535fccf65630c57?style=flat-square&logo=heroku&logoColor=79589f&labelColor=1a1a1a)](https://tech-corner-web-70b84e69e118.herokuapp.com/) [![Issues](https://img.shields.io/github/issues/j0hanz/tech-corner-website?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a)](https://github.com/j0hanz/tech-corner-website/issues)
 
 *A community blog and news site built with Django and Bootstrap.*
 
@@ -81,7 +105,7 @@ I enjoy using my coding experience to build creative solutions, and I'm always e
 
 [![Pick My Spell](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=PICK-my-SPELL&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/PICK-my-SPELL)
 
-![Last Commit](https://img.shields.io/github/last-commit/j0hanz/PICK-my-SPELL?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/PICK-my-SPELL?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)
+[![Last Commit](https://img.shields.io/github/last-commit/j0hanz/PICK-my-SPELL?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a&label=updated)](https://github.com/j0hanz/PICK-my-SPELL/commits) [![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/PICK-my-SPELL?style=flat-square&logo=git&logoColor=f05032&labelColor=1a1a1a&color=2a2a2a)](https://github.com/j0hanz/PICK-my-SPELL/commits)
 
 *A spelling quiz game built with JavaScript.*
 
@@ -89,7 +113,7 @@ I enjoy using my coding experience to build creative solutions, and I'm always e
 
 [![Fix My Spell](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=FIX-my-SPELL&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/FIX-my-SPELL)
 
-![Last Commit](https://img.shields.io/github/last-commit/j0hanz/FIX-my-SPELL?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=4a4a4a&label=updated)![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/FIX-my-SPELL?style=flat-square&logo=git&logoColor=white&labelColor=1a1a1a)
+[![Last Commit](https://img.shields.io/github/last-commit/j0hanz/FIX-my-SPELL?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a&label=updated)](https://github.com/j0hanz/FIX-my-SPELL/commits) [![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/FIX-my-SPELL?style=flat-square&logo=git&logoColor=f05032&labelColor=1a1a1a&color=2a2a2a)](https://github.com/j0hanz/FIX-my-SPELL/commits)
 
 *A console-based game to correct misspelled words, built with Python.*
 

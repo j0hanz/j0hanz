@@ -21,7 +21,7 @@ I enjoy using my coding experience to build creative solutions, and I'm always e
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=j0hanz&show_icons=true&theme=transparent&count_private=true&rank_icon=github&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&line_height=29&card_width=525px)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j0hanz&layout=donut&theme=transparent&count_private=true&hide_border=true&title_color=ffffff&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=j0hanz&show_icons=true&theme=transparent&count_private=true&rank_icon=github&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&line_height=29)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j0hanz&layout=donut&theme=transparent&count_private=true&hide_border=true&title_color=ffffff&text_color=ffffff)
 
 ---
 

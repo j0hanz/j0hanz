@@ -4,7 +4,7 @@
 
 ---
 
-# Hi there! 👋
+# Hi there! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Description" width="35"/>
 
 I'm a Junior Full Stack Developer who recently completed a Full-Stack Developer program at [Code Institute](https://codeinstitute.net/se/).
 I enjoy using my coding experience to build creative solutions, and I'm always eager to learn, solve problems, and collaborate. I'm looking for opportunities that will help me grow and develop.

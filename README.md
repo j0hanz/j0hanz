@@ -49,7 +49,7 @@ I enjoy using my coding experience to build creative solutions, and I'm always e
 | [anchvo](https://github.com/anchvo) | Front-end     |
 | [TafadzwaMangena](https://github.com/TafadzwaMangena) | Agile, Team member's page.     |
 
-![Badge: November 2024 Hackathon: 3rd Place](https://api.eu.badgr.io/public/assertions/pO3q7BfdQFyGCP_gpMZb1A/image)
+![Badge: November 2024 Hackathon: 3rd Place](assets/hackathonBadgeThirdPlace.png)
 
 <br />
 
@@ -75,7 +75,7 @@ I enjoy using my coding experience to build creative solutions, and I'm always e
 | [NontyD](https://github.com/NontyD)       | Front-end Developer         |
 | [jhoanTrujillo](https://github.com/jhoanTrujillo) | Full-stack Developer     |
 
-![Badge: September 2024 Hackathon: Participant](https://api.eu.badgr.io/public/assertions/pv52CsVuSI2V_KIyzgiahA/image)
+![Badge: September 2024 Hackathon: Participant](assets/hackathonBadge.png)
 
 <br />
 

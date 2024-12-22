@@ -57,21 +57,21 @@ I enjoy using my coding experience to build creative solutions, and I'm always e
 
 <summary>Hackathon Nov 2024</summary>
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Morgana-S&repo=Nov24Hackathon&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/Morgana-S/Nov24Hackathon)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=hannahro15&repo=Nov24Hackathon&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/hannahro15/Nov24Hackathon)
 
-[![Last Commit](https://img.shields.io/github/last-commit/Morgana-S/Nov24Hackathon?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a&label=updated)](https://github.com/Morgana-S/Nov24Hackathon/commits) [![Commits](https://img.shields.io/github/commit-activity/t/Morgana-S/Nov24Hackathon?style=flat-square&logo=git&logoColor=f05032&labelColor=1a1a1a&color=2a2a2a)](https://github.com/Morgana-S/Nov24Hackathon/commits) [![Issues](https://img.shields.io/github/issues/Morgana-S/Nov24Hackathon?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a)](https://github.com/Morgana-S/Nov24Hackathon/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/hannahro15/Nov24Hackathon?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a&label=updated)](https://github.com/hannahro15/Nov24Hackathon/commits) [![Commits](https://img.shields.io/github/commit-activity/t/hannahro15/Nov24Hackathon?style=flat-square&logo=git&logoColor=f05032&labelColor=1a1a1a&color=2a2a2a)](https://github.com/hannahro15/Nov24Hackathon/commits) [![Issues](https://img.shields.io/github/issues/hannahro15/Nov24Hackathon?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a)](https://github.com/hannahro15/Nov24Hackathon/issues)
 
 *This project was part of the November-24 Hackathon, hosted by [Code Institute](https://hackathon.codeinstitute.net/hackathon/53/).*
 
-*For detailed progress and task management, visit our [Project Board](https://github.com/users/Morgana-S/projects/4).*
+*For detailed progress and task management, visit our [Project Board](https://github.com/users/hannahro15/projects/4).*
 
 | Contributor                              | Role                |
 |------------------------------------------|---------------------|
 | [j0hanz](https://github.com/j0hanz)       | Front-End, Back-End, Django        |
-| [Morgana-S](https://github.com/Morgana-S)   | Scrum Master, Agile, Contact Page   |
-| [Anka-S](https://github.com/Anka-S) | Front-End, Documentation  |
-| [GrzegorzStary](https://github.com/GrzegorzStary)       | Front-End         |
-| [farhatamannaislam](https://github.com/farhatamannaislam) | Front-end     |
+| [hannahro15](https://github.com/hannahro15)   | Scrum Master, Agile, Contact Page   |
+| [arthur-vilela](https://github.com/arthur-vilela) | Front-End, Documentation  |
+| [ewradcliffe](https://github.com/ewradcliffe)       | Front-End         |
+| [erinvdoyle](https://github.com/erinvdoyle) | Front-end     |
 | [anchvo](https://github.com/anchvo) | Front-end     |
 | [TafadzwaMangena](https://github.com/TafadzwaMangena) | Agile, Team member's page.     |
 

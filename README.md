@@ -6,8 +6,11 @@
 
 # Hi there! 👋
 
-I'm a Junior Full Stack Developer who recently completed a Full-Stack Developer program at [Code Institute](https://codeinstitute.net/se/).
-I enjoy using my coding experience to build creative solutions, and I'm always eager to learn, solve problems, and collaborate. I'm looking for opportunities that will help me grow and develop.
+I’m Linus Johansson, a solution-focused Junior Developer with a strong technical background and experience in leadership and customer service.
+
+I specialize in creating user-friendly, visually appealing interfaces, integrating APIs, and backend development with Django REST Framework.
+
+I’m excited to contribute to impactful projects and continue deepen my skills in modern frontend development.
 
 ---
 
@@ -123,6 +126,34 @@ I enjoy using my coding experience to build creative solutions, and I'm always e
 
 <details>
 
+<summary>Games</summary>
+
+[![Memory Card Game](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=pick-and-pair&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/pick-and-pair)
+
+[![Last Commit](https://img.shields.io/github/last-commit/j0hanz/pick-and-pair?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a&label=updated)](https://github.com/j0hanz/pick-and-pair/commits) [![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/pick-and-pair?style=flat-square&logo=git&logoColor=f05032&labelColor=1a1a1a&color=2a2a2a)](https://github.com/j0hanz/pick-and-pair/commits)
+
+*A React-based memory game where players match card pairs with minimal moves and time.*
+
+<br />
+
+[![Pick My Spell](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=PICK-my-SPELL&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/PICK-my-SPELL)
+
+[![Last Commit](https://img.shields.io/github/last-commit/j0hanz/PICK-my-SPELL?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a&label=updated)](https://github.com/j0hanz/PICK-my-SPELL/commits) [![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/PICK-my-SPELL?style=flat-square&logo=git&logoColor=f05032&labelColor=1a1a1a&color=2a2a2a)](https://github.com/j0hanz/PICK-my-SPELL/commits)
+
+*A spelling quiz game built with JavaScript.*
+
+<br />
+
+[![Fix My Spell](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=FIX-my-SPELL&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/FIX-my-SPELL)
+
+[![Last Commit](https://img.shields.io/github/last-commit/j0hanz/FIX-my-SPELL?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a&label=updated)](https://github.com/j0hanz/FIX-my-SPELL/commits) [![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/FIX-my-SPELL?style=flat-square&logo=git&logoColor=f05032&labelColor=1a1a1a&color=2a2a2a)](https://github.com/j0hanz/FIX-my-SPELL/commits)
+
+*A console-based game to correct misspelled words, built with Python.*
+
+</details>
+
+<details>
+
 <summary>Blog Beat</summary>
 
 [![Blog Beat Web](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=blog-beat-web&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/blog-beat-web)
@@ -152,26 +183,6 @@ I enjoy using my coding experience to build creative solutions, and I'm always e
 *A community blog and news site built with Django and Bootstrap.*
 
 <br />
-
-</details>
-
-<details>
-
-<summary>Games</summary>
-
-[![Pick My Spell](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=PICK-my-SPELL&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/PICK-my-SPELL)
-
-[![Last Commit](https://img.shields.io/github/last-commit/j0hanz/PICK-my-SPELL?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a&label=updated)](https://github.com/j0hanz/PICK-my-SPELL/commits) [![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/PICK-my-SPELL?style=flat-square&logo=git&logoColor=f05032&labelColor=1a1a1a&color=2a2a2a)](https://github.com/j0hanz/PICK-my-SPELL/commits)
-
-*A spelling quiz game built with JavaScript.*
-
-<br />
-
-[![Fix My Spell](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=FIX-my-SPELL&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/FIX-my-SPELL)
-
-[![Last Commit](https://img.shields.io/github/last-commit/j0hanz/FIX-my-SPELL?style=flat-square&logo=github&logoColor=white&labelColor=1a1a1a&color=2a2a2a&label=updated)](https://github.com/j0hanz/FIX-my-SPELL/commits) [![Commits](https://img.shields.io/github/commit-activity/t/j0hanz/FIX-my-SPELL?style=flat-square&logo=git&logoColor=f05032&labelColor=1a1a1a&color=2a2a2a)](https://github.com/j0hanz/FIX-my-SPELL/commits)
-
-*A console-based game to correct misspelled words, built with Python.*
 
 </details>
 

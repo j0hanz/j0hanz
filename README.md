@@ -32,7 +32,11 @@ I’m excited to contribute to impactful projects and continue deepen my skills 
 
 <details>
 
-<summary>Hackathon Dec 2024</summary>
+<summary>Hackathons</summary>
+
+<details>
+
+<summary>&nbsp;&nbsp;December 2024</summary>
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=magic-december&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/Morgana-S/magic-december)
 
@@ -58,7 +62,7 @@ I’m excited to contribute to impactful projects and continue deepen my skills 
 
 <details>
 
-<summary>Hackathon Nov 2024</summary>
+<summary>&nbsp;&nbsp;November 2024</summary>
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=hannahro15&repo=Nov24Hackathon&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/hannahro15/Nov24Hackathon)
 
@@ -86,7 +90,7 @@ I’m excited to contribute to impactful projects and continue deepen my skills 
 
 <details>
 
-<summary>Hackathon Sep 2024</summary>
+<summary>&nbsp;&nbsp;September 2024</summary>
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=j0hanz&repo=Team4-Sep2024-Hackathon&bg_color=DEG,1a1a1a,252525,2a2a2a&description_lines_count=2&show_description=false&border_radius=6.5&title_color=f0f0f0&text_color=dedede&icon_color=0090ea&border_color=4a4a4a)](https://github.com/j0hanz/Team4-Sep2024-Hackathon)
 
@@ -107,6 +111,8 @@ I’m excited to contribute to impactful projects and continue deepen my skills 
 ![Badge: September 2024 Hackathon: Participant](assets/hackathonBadge.png)
 
 <br />
+
+</details>
 
 </details>
 

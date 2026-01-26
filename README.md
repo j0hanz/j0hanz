@@ -1,26 +1,14 @@
-![Linus Johansson](assets/nameLogo.png)
+# Linus Johansson
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2A2A2A?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/linus-johansson-software-dev/)[![Portfolio](https://img.shields.io/badge/Portfolio-2A2A2A?style=for-the-badge&logo=todoist&logoColor=f40f02)](https://linus-johansson-cv-d308be9b73e1.herokuapp.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linus-johansson-2b7245234/) [![GitHub followers](https://img.shields.io/github/followers/j0hanz?style=for-the-badge)](https://github.com/j0hanz)
 
----
-
-# Hi there! 👋
-
-I’m Linus Johansson, a solution-focused Junior Developer with a strong technical background and experience in leadership and customer service.
-
-I specialize in creating user-friendly, visually appealing interfaces, integrating APIs, and backend development with Django REST Framework.
-
-I’m excited to contribute to impactful projects and continue deepen my skills in modern frontend development.
+Motivated and solution-oriented Junior Developer with a strong technical background and several years of leadership and customer service experience. Passionate about developing user interfaces, API integrations, and backend systems using Django REST Framework. Dedicated to creating user-friendly and visually appealing interfaces.
 
 ---
 
 ## 🛠️ Skills
 
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![Agile](https://img.shields.io/badge/Agile-0077b5?style=for-the-badge&logo=agile&logoColor=white)![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-## 🌱 Currently learning
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![Agile](https://img.shields.io/badge/Agile-0077b5?style=for-the-badge&logo=agile&logoColor=white)![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 

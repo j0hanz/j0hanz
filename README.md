@@ -1,25 +1,18 @@
 # Hi, I'm Linus Johansson 👋
 
-<p>
-  <a href="https://linus-johansson-cv-d308be9b73e1.herokuapp.com/"><img src="https://img.shields.io/badge/-Portfolio-8A2BE2?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/linus-johansson-2b7245234/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/j0hanz"><img src="https://img.shields.io/github/followers/j0hanz?style=flat&logo=github" alt="Followers"/></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&width=600&lines=Full-Stack+Enthusiast;Always+learning%2C+always+building)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-8A2BE2?style=flat&logo=googlechrome&logoColor=white)](https://linus-johansson-cv-d308be9b73e1.herokuapp.com/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linus-johansson-2b7245234/) [![Followers](https://img.shields.io/github/followers/j0hanz?style=flat&logo=github)](https://github.com/j0hanz)
 
 Junior Developer passionate about building user-friendly interfaces, API integrations, and backend systems with Django REST Framework.
 
 ## Tech Stack
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,py,django,nodejs,postgres,git,heroku&perline=6" alt="Skills"/>
-</a>
+[![Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,py,django,nodejs,postgres,git,heroku&perline=6)](https://skillicons.dev)
 
 ## GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=j0hanz&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0hanz&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=j0hanz&show_icons=true&theme=github_dark&hide_border=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j0hanz&layout=compact&theme=github_dark&hide_border=true)
 
 ## Featured Projects
 

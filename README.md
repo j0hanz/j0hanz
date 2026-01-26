@@ -6,7 +6,7 @@
 
 Junior Developer passionate about building user-friendly interfaces, API integrations, and backend systems with Django REST Framework.
 
-[![Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,py,django,nodejs,postgres,git,heroku&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,materialui,py,django,nodejs,npm,postgres,git,heroku,powershell,workers&perline=8)](https://skillicons.dev)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=j0hanz&show_icons=true&theme=github_dark&hide_border=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j0hanz&layout=compact&theme=github_dark&hide_border=true)
 

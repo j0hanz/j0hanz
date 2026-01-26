@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&width=600&lines=Full-Stack+Enthusiast;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-8A2BE2?style=flat&logo=googlechrome&logoColor=white)](https://linus-johansson-cv-d308be9b73e1.herokuapp.com/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linus-johansson-software-dev/) [![Followers](https://img.shields.io/github/followers/j0hanz?style=flat&logo=github)](https://github.com/j0hanz)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://linus-johansson-cv-d308be9b73e1.herokuapp.com/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linus-johansson-software-dev/) [![Followers](https://img.shields.io/github/followers/j0hanz?style=for-the-badge&logo=github)](https://github.com/j0hanz)
 
 Junior Developer passionate about building user-friendly interfaces, API integrations, and backend systems with Django REST Framework.
 
@@ -16,13 +16,13 @@ Junior Developer passionate about building user-friendly interfaces, API integra
 
 A suite of [Model Context Protocol](https://modelcontextprotocol.io/) servers I've developed for AI assistants:
 
-| Server                                                            | Description                                          | npm                                                                                                                                   |
-| ----------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| [thinkseq-mcp](https://github.com/j0hanz/thinkseq-mcp-server)     | Structured sequential thinking with revision support | [![npm](https://img.shields.io/npm/v/@j0hanz/thinkseq-mcp?style=flat-square)](https://www.npmjs.com/package/@j0hanz/thinkseq-mcp)     |
-| [fs-context-mcp](https://github.com/j0hanz/fs-context-mcp-server) | Secure read-only filesystem exploration and search   | [![npm](https://img.shields.io/npm/v/@j0hanz/fs-context-mcp?style=flat-square)](https://www.npmjs.com/package/@j0hanz/fs-context-mcp) |
-| [superfetch](https://github.com/j0hanz/super-fetch-mcp-server)    | Web content extraction to AI-optimized Markdown      | [![npm](https://img.shields.io/npm/v/@j0hanz/superfetch?style=flat-square)](https://www.npmjs.com/package/@j0hanz/superfetch)         |
-| [memdb](https://github.com/j0hanz/memdb-mcp-server)               | SQLite-backed memory storage with full-text search   | [![npm](https://img.shields.io/npm/v/@j0hanz/memdb?style=flat-square)](https://www.npmjs.com/package/@j0hanz/memdb)                   |
-| [todokit-mcp](https://github.com/j0hanz/todokit-mcp-server)       | Task management with JSON persistence                | [![npm](https://img.shields.io/npm/v/@j0hanz/todokit-mcp?style=flat-square)](https://www.npmjs.com/package/@j0hanz/todokit-mcp)       |
+| Server                                                            | Description                                          | npm                                                                                                                                            |
+| ----------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| [thinkseq-mcp](https://github.com/j0hanz/thinkseq-mcp-server)     | Structured sequential thinking with revision support | [![npm](https://img.shields.io/npm/v/@j0hanz/thinkseq-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/thinkseq-mcp)     |
+| [fs-context-mcp](https://github.com/j0hanz/fs-context-mcp-server) | Secure read-only filesystem exploration and search   | [![npm](https://img.shields.io/npm/v/@j0hanz/fs-context-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/fs-context-mcp) |
+| [superfetch](https://github.com/j0hanz/super-fetch-mcp-server)    | Web content extraction to AI-optimized Markdown      | [![npm](https://img.shields.io/npm/v/@j0hanz/superfetch?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/superfetch)         |
+| [memdb](https://github.com/j0hanz/memdb-mcp-server)               | SQLite-backed memory storage with full-text search   | [![npm](https://img.shields.io/npm/v/@j0hanz/memdb?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/memdb)                   |
+| [todokit-mcp](https://github.com/j0hanz/todokit-mcp-server)       | Task management with JSON persistence                | [![npm](https://img.shields.io/npm/v/@j0hanz/todokit-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/todokit-mcp)       |
 
 ### ArcGIS Experience Builder Widgets
 

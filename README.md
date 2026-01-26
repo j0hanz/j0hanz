@@ -35,9 +35,17 @@ A suite of [Model Context Protocol](https://modelcontextprotocol.io/) servers I'
 | [memdb](https://github.com/j0hanz/memdb-mcp-server)               | SQLite-backed memory storage with full-text search   | [![npm](https://img.shields.io/npm/v/@j0hanz/memdb?style=flat-square)](https://www.npmjs.com/package/@j0hanz/memdb)                   |
 | [todokit-mcp](https://github.com/j0hanz/todokit-mcp-server)       | Task management with JSON persistence                | [![npm](https://img.shields.io/npm/v/@j0hanz/todokit-mcp?style=flat-square)](https://www.npmjs.com/package/@j0hanz/todokit-mcp)       |
 
+### ArcGIS Experience Builder Widgets
 
-<details>
-<summary>Hackathons</summary>
+Custom widgets for [ArcGIS Experience Builder](https://developers.arcgis.com/experience-builder/) — Esri's platform for building flexible GIS web applications with 2D/3D content:
+
+| Widget                                                                     | Description                                                               |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [fme-export-widget](https://github.com/j0hanz/fme-export-widget)           | FME Flow integration with AOI drawing, dynamic forms, and job execution   |
+| [get-coordinates-widget](https://github.com/j0hanz/get-coordinates-widget) | Display map coordinates with configurable style variants                  |
+| [property-owner-widget](https://github.com/j0hanz/property-owner-widget)   | Property owner lookup with cursor management and FBWebb report generation |
+
+### Hackathons
 
 | Event    | Project                                                              | Role                     | Result      |
 | -------- | -------------------------------------------------------------------- | ------------------------ | ----------- |
@@ -46,5 +54,3 @@ A suite of [Model Context Protocol](https://modelcontextprotocol.io/) servers I'
 | Dec 2024 | [Magic December](https://github.com/Morgana-S/magic-december)        | Front-End, Bootstrap, JS | Participant |
 | Nov 2024 | [Nov24Hackathon](https://github.com/hannahro15/Nov24Hackathon)       | Full-Stack, Django       | 3rd Place   |
 | Sep 2024 | [Team4 Hackathon](https://github.com/j0hanz/Team4-Sep2024-Hackathon) | Full-Stack Developer     | Participant |
-
-</details>

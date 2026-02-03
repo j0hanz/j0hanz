@@ -10,8 +10,6 @@ Junior Developer passionate about building user-friendly interfaces, API integra
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,materialui,vite,py,django,nodejs,npm,postgres,git,heroku,vscode,powershell,md,raspberrypi&perline=10)](https://skillicons.dev)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=j0hanz&show_icons=true&theme=github_dark&hide_border=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j0hanz&layout=compact&theme=github_dark&hide_border=true)
-
 ## Featured Projects
 
 ### MCP Servers

@@ -18,11 +18,11 @@ A suite of [Model Context Protocol](https://modelcontextprotocol.io/) servers I'
 
 | Server                                                            | Description                                          | npm                                                                                                                                            |
 | ----------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| [thinkseq-mcp](https://github.com/j0hanz/thinkseq-mcp-server)     | Structured sequential thinking with revision support | [![npm](https://img.shields.io/npm/v/@j0hanz/thinkseq-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/thinkseq-mcp)     |
-| [fs-context-mcp](https://github.com/j0hanz/fs-context-mcp-server) | Secure read-only filesystem exploration and search   | [![npm](https://img.shields.io/npm/v/@j0hanz/fs-context-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/fs-context-mcp) |
-| [superfetch](https://github.com/j0hanz/super-fetch-mcp-server)    | Web content extraction to AI-optimized Markdown      | [![npm](https://img.shields.io/npm/v/@j0hanz/superfetch?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/superfetch)         |
-| [memdb](https://github.com/j0hanz/memdb-mcp-server)               | SQLite-backed memory storage with full-text search   | [![npm](https://img.shields.io/npm/v/@j0hanz/memdb?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/memdb)                   |
-| [todokit-mcp](https://github.com/j0hanz/todokit-mcp-server)       | Task management with JSON persistence                | [![npm](https://img.shields.io/npm/v/@j0hanz/todokit-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/todokit-mcp)       |
+| [Cortex MCP](https://github.com/j0hanz/cortex-mcp)     | Multi-level reasoning MCP server with configurable depth levels. | [![npm](https://img.shields.io/npm/v/@j0hanz/cortex-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/cortex-mcp)     |
+| [Filesystem MCP](https://github.com/j0hanz/filesystem-mcp) | MCP Server that enables LLMs to interact with the local filesystem   | [![npm](https://img.shields.io/npm/v/@j0hanz/filesystem-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/filesystem-mcp) |
+| [Fetch URL MCP](https://github.com/j0hanz/fetch-url-mcp)    | Fetch public web pages and convert them into clean, AI-readable Markdown.      | [![npm](https://img.shields.io/npm/v/@j0hanz/fetch-url-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/fetch-url-mcp)         |
+| [MemDB](https://github.com/j0hanz/memdb-mcp-server)               | SQLite-backed memory storage with full-text search   | [![npm](https://img.shields.io/npm/v/@j0hanz/memdb?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/memdb)                   |
+| [Todokit MCP](https://github.com/j0hanz/todokit-mcp-server)       | Task management with JSON persistence                | [![npm](https://img.shields.io/npm/v/@j0hanz/todokit-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/todokit-mcp)       |
 
 ### ArcGIS Experience Builder Widgets
 
@@ -30,9 +30,9 @@ Custom widgets for [ArcGIS Experience Builder](https://developers.arcgis.com/exp
 
 | Widget                                                                     | Description                                                               |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [fme-export-widget](https://github.com/j0hanz/fme-export-widget)           | FME Flow integration with AOI drawing, dynamic forms, and job execution   |
-| [get-coordinates-widget](https://github.com/j0hanz/get-coordinates-widget) | Display map coordinates with configurable style variants                  |
-| [property-owner-widget](https://github.com/j0hanz/property-owner-widget)   | Property owner lookup with cursor management and FBWebb report generation |
+| [FME Export Widget](https://github.com/j0hanz/fme-export-widget)           | FME Flow integration with AOI drawing, dynamic forms, and job execution   |
+| [Get-Coodinates Widget](https://github.com/j0hanz/get-coordinates-widget) | Display map coordinates with configurable style variants                  |
+| [Property Owner Widget](https://github.com/j0hanz/property-owner-widget)   | Property owner lookup with cursor management and FBWebb report generation |
 
 ### Hackathons
 

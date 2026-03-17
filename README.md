@@ -16,23 +16,24 @@ Junior Developer passionate about building user-friendly interfaces, API integra
 
 A suite of [Model Context Protocol](https://modelcontextprotocol.io/) servers I've developed for AI assistants:
 
-| Server                                                            | Description                                          | npm                                                                                                                                            |
-| ----------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Cortex MCP](https://github.com/j0hanz/cortex-mcp)     | Multi-level reasoning MCP server with configurable depth levels. | [![npm](https://img.shields.io/npm/v/@j0hanz/cortex-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/cortex-mcp)     |
-| [Filesystem MCP](https://github.com/j0hanz/filesystem-mcp) | MCP Server that enables LLMs to interact with the local filesystem   | [![npm](https://img.shields.io/npm/v/@j0hanz/filesystem-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/filesystem-mcp) |
-| [Fetch URL MCP](https://github.com/j0hanz/fetch-url-mcp)    | Fetch public web pages and convert them into clean, AI-readable Markdown.      | [![npm](https://img.shields.io/npm/v/@j0hanz/fetch-url-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/fetch-url-mcp)         |
-| [MemDB](https://github.com/j0hanz/memdb-mcp-server)               | SQLite-backed memory storage with full-text search   | [![npm](https://img.shields.io/npm/v/@j0hanz/memdb?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/memdb)                   |
-| [Todokit MCP](https://github.com/j0hanz/todokit-mcp-server)       | Task management with JSON persistence                | [![npm](https://img.shields.io/npm/v/@j0hanz/todokit-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/todokit-mcp)       |
+| Server                                                      | Description                                                               | npm                                                                                                                                            |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Cortex MCP](https://github.com/j0hanz/cortex-mcp)          | Multi-level reasoning MCP server with configurable depth levels.          | [![npm](https://img.shields.io/npm/v/@j0hanz/cortex-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/cortex-mcp)         |
+| [Filesystem MCP](https://github.com/j0hanz/filesystem-mcp)  | MCP Server that enables LLMs to interact with the local filesystem        | [![npm](https://img.shields.io/npm/v/@j0hanz/filesystem-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/filesystem-mcp) |
+| [Fetch URL MCP](https://github.com/j0hanz/fetch-url-mcp)    | Fetch public web pages and convert them into clean, AI-readable Markdown. | [![npm](https://img.shields.io/npm/v/@j0hanz/fetch-url-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/fetch-url-mcp)   |
+| [Code Lens](https://github.com/j0hanz/code-lens)            | Gemini-powered code review, analysis, and documentation                   | [![npm](https://img.shields.io/npm/v/@j0hanz/code-lens?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/code-lens)           |
+| [Memory MCP](https://github.com/j0hanz/memory-mcp)          | Persistent memory storage with full-text search and graph traversal       | [![npm](https://img.shields.io/npm/v/@j0hanz/memory-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/memory-mcp)         |
+| [Todokit MCP](https://github.com/j0hanz/todokit-mcp-server) | Task management with JSON persistence                                     | [![npm](https://img.shields.io/npm/v/@j0hanz/todokit-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/todokit-mcp)       |
 
 ### ArcGIS Experience Builder Widgets
 
 Custom widgets for [ArcGIS Experience Builder](https://developers.arcgis.com/experience-builder/) — Esri's platform for building flexible GIS web applications with 2D/3D content:
 
-| Widget                                                                     | Description                                                               |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [FME Export Widget](https://github.com/j0hanz/fme-export-widget)           | FME Flow integration with AOI drawing, dynamic forms, and job execution   |
+| Widget                                                                    | Description                                                               |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [FME Export Widget](https://github.com/j0hanz/fme-export-widget)          | FME Flow integration with AOI drawing, dynamic forms, and job execution   |
 | [Get-Coodinates Widget](https://github.com/j0hanz/get-coordinates-widget) | Display map coordinates with configurable style variants                  |
-| [Property Owner Widget](https://github.com/j0hanz/property-owner-widget)   | Property owner lookup with cursor management and FBWebb report generation |
+| [Property Owner Widget](https://github.com/j0hanz/property-owner-widget)  | Property owner lookup with cursor management and FBWebb report generation |
 
 ### Hackathons
 

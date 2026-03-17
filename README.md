@@ -12,6 +12,12 @@ Junior Developer passionate about building user-friendly interfaces, API integra
 
 ## Featured Projects
 
+### MCP Clients
+
+| Client                                                     | Description                                                     | Stack                          |
+| ---------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------ |
+| [Page Converter](https://github.com/j0hanz/page-converter) | Web client for fetch-url-mcp — converts pages to clean Markdown | Next.js, React 19, Material UI |
+
 ### MCP Servers
 
 A suite of [Model Context Protocol](https://modelcontextprotocol.io/) servers I've developed for AI assistants:

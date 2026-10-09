@@ -1,52 +1,39 @@
-# Hi, I'm Linus Johansson 👋
+# Hi, I'm Linus Johansson
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&width=600&lines=Full-Stack+Enthusiast;Always+learning%2C+always+building)](https://git.io/typing-svg)
+I build tools for AI-assisted development, alongside web apps and GIS integrations. Much of my recent work is on plugins, skills, and MCP servers that help coding assistants work with real projects.
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-8A2BE2?style=for-the-badge&logo=protodotio&logoColor=white)](https://linus-johansson-cv-d308be9b73e1.herokuapp.com/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/linus-johansson-software-dev/) [![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~j0hanz) [![Followers](https://img.shields.io/github/followers/j0hanz?style=for-the-badge&logo=github)](https://github.com/j0hanz)
+[Portfolio](https://linus-johansson-cv-d308be9b73e1.herokuapp.com/) · [LinkedIn](https://www.linkedin.com/in/linus-johansson-software-dev/) · [npm](https://www.npmjs.com/~j0hanz)
 
-Junior Developer passionate about building user-friendly interfaces, API integrations, and backend systems with Django REST Framework.
+## My plugin marketplace
 
----
+[j0hanz-marketplace](https://github.com/j0hanz/j0hanz-marketplace) brings together my plugins for **Claude Code and GitHub Copilot CLI**. You can install just the ones you need:
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,materialui,vite,py,django,nodejs,npm,postgres,git,heroku,vscode,powershell,md,raspberrypi&perline=10)](https://skillicons.dev)
+- **Frontend and CSS:** UI design, loading states, accessibility reviews, and checks for CSS problems.
+- **Development workflows:** research, planning, test-driven development, debugging, and refactoring, plus Node.js and TypeScript guidance.
+- **MCP tooling:** skills for building, testing, and migrating MCP servers and clients, with a filesystem server for reading, searching, and editing project files.
+- **Reviews and writing:** code-quality reviews, prompt refinement, and help writing clear PR descriptions and commit messages.
+- **Learning:** a tutor with lessons, retrieval quizzes, and spaced repetition across sessions.
+- **Claude Code extras:** output styles and Telltale, which shows skill and tool usage, context costs, and local session logs.
 
-## Featured Projects
+The catalog is shared by both clients; output styles and Telltale are Claude Code only.
 
-### MCP Clients
+## More AI tools I've built
 
-| Client                                                     | Description                                                     | Stack                          |
-| ---------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------ |
-| [Fetch URL](https://github.com/j0hanz/fetch-url) | Web client for fetch-url-mcp — converts pages to clean Markdown | Next.js, React 19, Material UI |
+My [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) servers give AI assistants tools for working with files, web content, memory, and code.
 
-### MCP Servers
+| Project | What it does |
+| --- | --- |
+| [Filesystem MCP](https://github.com/j0hanz/filesystem-mcp) | Directory-scoped file access, search, editing, diffs, and patches. |
+| [Fetch URL MCP](https://github.com/j0hanz/fetch-url-mcp) | Converts public web pages into clean Markdown. |
+| [Memory MCP](https://github.com/j0hanz/memory-mcp) | Persistent memory with full-text search and relationships between entries. |
+| [Code Lens](https://github.com/j0hanz/code-lens) | Gemini-powered code review, analysis, and documentation. |
+| [Cortex MCP](https://github.com/j0hanz/cortex-mcp) | Session-based reasoning with configurable depth and inspectable traces. |
+| [Todokit MCP](https://github.com/j0hanz/todokit-mcp-server) | Local task management with persistent JSON storage. |
 
-A suite of [Model Context Protocol](https://modelcontextprotocol.io/) servers I've developed for AI assistants:
+I also built [Fetch URL](https://github.com/j0hanz/fetch-url), a web app for previewing, copying, and downloading pages as Markdown, and [Squads](https://github.com/j0hanz/squads), multi-agent workflows for Claude Code.
 
-| Server                                                      | Description                                                               | npm                                                                                                                                            |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Cortex MCP](https://github.com/j0hanz/cortex-mcp)          | Multi-level reasoning MCP server with configurable depth levels.          | [![npm](https://img.shields.io/npm/v/@j0hanz/cortex-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/cortex-mcp)         |
-| [Filesystem MCP](https://github.com/j0hanz/filesystem-mcp)  | MCP Server that enables LLMs to interact with the local filesystem        | [![npm](https://img.shields.io/npm/v/@j0hanz/filesystem-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/filesystem-mcp) |
-| [Fetch URL MCP](https://github.com/j0hanz/fetch-url-mcp)    | Fetch public web pages and convert them into clean, AI-readable Markdown. | [![npm](https://img.shields.io/npm/v/@j0hanz/fetch-url-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/fetch-url-mcp)   |
-| [Code Lens](https://github.com/j0hanz/code-lens)            | Gemini-powered code review, analysis, and documentation                   | [![npm](https://img.shields.io/npm/v/@j0hanz/code-lens?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/code-lens)           |
-| [Memory MCP](https://github.com/j0hanz/memory-mcp)          | Persistent memory storage with full-text search and graph traversal       | [![npm](https://img.shields.io/npm/v/@j0hanz/memory-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/memory-mcp)         |
-| [Todokit MCP](https://github.com/j0hanz/todokit-mcp-server) | Task management with JSON persistence                                     | [![npm](https://img.shields.io/npm/v/@j0hanz/todokit-mcp?style=for-the-badge-square)](https://www.npmjs.com/package/@j0hanz/todokit-mcp)       |
+## Web and GIS work
 
-### ArcGIS Experience Builder Widgets
+I work with TypeScript, JavaScript, React, Next.js, Node.js, Python, and Django.
 
-Custom widgets for [ArcGIS Experience Builder](https://developers.arcgis.com/experience-builder/) — Esri's platform for building flexible GIS web applications with 2D/3D content:
-
-| Widget                                                                    | Description                                                               |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [FME Export Widget](https://github.com/j0hanz/fme-export-widget)          | FME Flow integration with AOI drawing, dynamic forms, and job execution   |
-| [Get-Coodinates Widget](https://github.com/j0hanz/get-coordinates-widget) | Display map coordinates with configurable style variants                  |
-| [Property Owner Widget](https://github.com/j0hanz/property-owner-widget)  | Property owner lookup with cursor management and FBWebb report generation |
-
-### Hackathons
-
-| Event    | Project                                                              | Role                     | Result      |
-| -------- | -------------------------------------------------------------------- | ------------------------ | ----------- |
-| Mar 2025 | [2503 Hackathon](https://github.com/tgrey2024/2503-hackathon-team1)  | Full-Stack               | 2nd Place   |
-| Feb 2025 | [Team6 Hackathon](https://github.com/j0hanz/Team6-Feb25Hackathon)    | Scrum Master             | Participant |
-| Dec 2024 | [Magic December](https://github.com/Morgana-S/magic-december)        | Front-End, Bootstrap, JS | Participant |
-| Nov 2024 | [Nov24Hackathon](https://github.com/hannahro15/Nov24Hackathon)       | Full-Stack, Django       | 3rd Place   |
-| Sep 2024 | [Team4 Hackathon](https://github.com/j0hanz/Team4-Sep2024-Hackathon) | Full-Stack Developer     | Participant |
+My ArcGIS Experience Builder widgets cover [FME Flow data exports](https://github.com/j0hanz/fme-export-widget), [map coordinates](https://github.com/j0hanz/get-coordinates-widget), and [property-owner lookup and reports](https://github.com/j0hanz/property-owner-widget).
